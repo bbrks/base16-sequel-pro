@@ -1,2 +1,5 @@
 # base16-sequel-pro
-Base16 for Sequel Pro https://github.com/chriskempson/base16
+See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
+
+# Installation
+Double click chosen colour scheme
